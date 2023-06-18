@@ -1,3 +1,8 @@
+# Most relevant links:
+
+https://codalab.lisn.upsaclay.fr/competitions/12420#learn_the_details-instructions
+https://grid2op.readthedocs.io/en/latest/
+
 # Starting kit Content
 
 Using Python 3.10
