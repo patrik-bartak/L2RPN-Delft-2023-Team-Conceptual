@@ -1,0 +1,11 @@
+{
+    "agent_seed": 1977249979,
+    "backend_type": "LightSimBackend_input_data_local",
+    "chronics_max_timestep": "2017",
+    "chronics_path": "/home/gaetan/Documents/Projects/L2RPN_Codalab_Competition_Bundle/competition_codalab/L2RPN_wcci2022/L2RPN_wcci2022_starting_kit/input_data_local/chronics/2050-10-03_6",
+    "cumulative_reward": 161435.9375,
+    "env_seed": 1626473444,
+    "env_type": "Environment_input_data_local",
+    "grid_path": "/home/gaetan/Documents/Projects/L2RPN_Codalab_Competition_Bundle/competition_codalab/L2RPN_wcci2022/L2RPN_wcci2022_starting_kit/input_data_local/grid.json",
+    "nb_timestep_played": 503
+}

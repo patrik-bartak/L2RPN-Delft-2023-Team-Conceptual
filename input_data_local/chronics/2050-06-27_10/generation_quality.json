@@ -1,0 +1,28 @@
+{
+    "avg": 8.154698217641919e-06,
+    "generation_time": 47.46504153599972,
+    "info": [
+        "avg, percent_95, percent_99, max: this 'quality' is the difference between the DC solver and the AC solver. This is the number of MW that will differ from the grid2op observation compared to the generated data by chronix2grid.",
+        "total_load, total_gen: total amount of energy consumed / produced for the generated scenario.",
+        "losses_mwh: total amount of losses for the scenario (in energy)",
+        "losses_avg: average (per step) of the loss (avg[loss_this_step / total_generation_this_step])",
+        "wind_curtailed_opf: total (in energy) wind power curtailed by the OPF",
+        "wind_curtailed_losses: total (in energy) wind power curtailed by the loss",
+        "solar_curtailed_opf: total (in energy) solar power curtailed by the OPF",
+        "iter_num: number of iteration of the loss algorithm",
+        "generation_time: total time spent to generate these data (in seconds)",
+        "saving_time: total time spent to save the generated data (in seconds), this excludes the metadata saving time"
+    ],
+    "iter_num": 3,
+    "losses_avg": 0.01947770607829931,
+    "losses_mwh": 7698.788000315582,
+    "max": 0.00705718994140625,
+    "percent_95": 0.0,
+    "percent_99": 0.000194549560546875,
+    "saving_time": 2.243174715999885,
+    "solar_curtailed_opf": -7.2124336535731946e-06,
+    "total_gen": 390721.2916666666,
+    "total_load": 383022.5036663511,
+    "wind_curtailed_losses": 0.01736275000924555,
+    "wind_curtailed_opf": 6064.91713375666
+}
